@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio_aaditya/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio_aaditya/static/js/main.a686b027.js",
+    "static/media/HeroImage.jpg": "/portfolio_aaditya/static/media/HeroImage.c8c46b80cc559956960a.jpg",
+    "index.html": "/portfolio_aaditya/index.html",
+    "main.bf538fe7.css.map": "/portfolio_aaditya/static/css/main.bf538fe7.css.map",
+    "main.a686b027.js.map": "/portfolio_aaditya/static/js/main.a686b027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a686b027.js"
+  ]
+}
