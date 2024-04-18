@@ -287,7 +287,7 @@ export const projects = [
     title: "Burgir.com",
     date: "Jan 2023 - Mar 2023",
     description:
-      "PA food ordering web app that is user friendly and addictive ",
+      "A food ordering web app that is user friendly and addictive ",
     image:
       "https://github.com/a1dtya/Images-and-content/blob/main/Burgiir.png?raw=true",
     tags: ["React Js",
@@ -306,7 +306,7 @@ export const projects = [
     title: "Gallerio",
     date: "Dec 2023 - Jan 2023",
     description:
-      "Web app that shows my interest in photography dip=splaying the photos I took",
+      "Web app that shows my interest in photography displaying the photos I took",
     image:
       "https://github.com/a1dtya/Images-and-content/blob/main/abc.png?raw=true",
     tags: ["React", "Tailwind CSS", "Locomotive", "MySQL"],
@@ -371,7 +371,7 @@ export const projects = [
     title: "Zerodha Project",
     date: "Apr 2024 - Ongoing",
     description:
-      "A webb app like Zerodha to trade, Invest in stocks | DOCKER | Next JS | Postres | CI/CD",
+      "A web app like Zerodha to trade, Invest in stocks | DOCKER | Next JS | Postres | CI/CD",
     image:
       "https://github.com/a1dtya/Images-and-content/blob/main/landing.png?raw=true",
     tags: ["Docker",
