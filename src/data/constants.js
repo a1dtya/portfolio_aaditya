@@ -10,7 +10,7 @@ export const Bio = {
     "I am a tech enthusiast, always ready to take on new challenges with a passion for learning. A positive attitude with a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/a1dtya",
   resume:
-    "https://drive.google.com/file/d/1o96DNbdJD5_ZW2S2_DzxWw9jlN3AGTyr/view",
+    "https://drive.google.com/file/d/1o96DNbdJD5_ZW2S2_DzxWw9jlN3AGTyr/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aadityaparmar/",
   twitter: "https://twitter.com/a1dtya",
   insta: "https://www.instagram.com/notaaditya/",
